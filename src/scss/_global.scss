@@ -1,0 +1,34 @@
+html {
+	scrollbar-gutter: stable;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Evolventa', sans-serif;
+	font-weight: 400;
+	color: $dark;
+	scrollbar-gutter: stable;
+}
+
+a {
+	display: block;
+	text-decoration: none;
+	color: $dark;
+}
+
+button {
+	border: none;
+	padding: 0;
+	margin: 0;
+	background: none;
+	cursor: pointer;
+}
+
+ul {
+	list-style-type: none;
+}
